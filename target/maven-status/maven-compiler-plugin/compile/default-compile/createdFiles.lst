@@ -1,0 +1,8 @@
+com/chandra/model/Student.class
+com/chandra/repository/LoginRepository.class
+com/chandra/model/Logins.class
+com/chandra/controller/StudentsController.class
+com/chandra/repository/StudentRepository.class
+com/chandra/config/PersistanceConfiguration.class
+com/chandra/App.class
+com/chandra/controller/LoginController.class
